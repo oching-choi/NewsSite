@@ -1,4 +1,4 @@
-# newsSite
+# NewsSite
 JavaScript fetch함수 활용해 기능구현.
 
 ## 📚 개요
