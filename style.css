@@ -80,6 +80,7 @@ header h1{
     padding: 0 15px;
     box-sizing: border-box;
     color: #5F5F5F;
+    text-align: left;
 }
 .news-info{
     margin-bottom: 30px;
